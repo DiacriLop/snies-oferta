@@ -8,7 +8,6 @@ data/raw/
 *.csv
 .env
 .streamlit/secrets.toml
-data/processed/
 
 # IDEs y Sistemas Operativos
 .vscode/
