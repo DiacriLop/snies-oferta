@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+data/*.parquet
+data/raw/
+*.xlsx
+*.csv
+.env
+.streamlit/secrets.toml
+data/processed/
+
+# IDEs y Sistemas Operativos
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
